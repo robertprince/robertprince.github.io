@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Robert Noel Prince, PhD",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1\n\n[1] 2\nA little bit about me and my life.\nI am a Senior Research Associate (SRA) at the University of Johannesburg. My research facilitates the identification of students who have the potential to succeed in higher education, given the appropriate academic support and curriculum structures to address their learning needs. My aim is to inform appropriate placement and curriculum development so that a wider range of students can be admitted, and appropriately placed in order to succeed in higher education."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Robert Noel Prince, PhD",
+    "section": "Education",
+    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Robert Noel Prince, PhD",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
