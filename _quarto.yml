@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "robertprince.github.io"
+  title: "Robert Noel Prince"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - research.qmd
 
 format:
   html:

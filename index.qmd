@@ -1,45 +1,60 @@
 ---
 title: "Robert Noel Prince, PhD"
-subtitle: "Senior Research Associate, UJ"
+subtitle: "Senior Research Associate, University of Johannesburg"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
-resources: resume.pdf
+resources: cv_rprince.pdf
 about: # https://quarto.org/docs/websites/website-about.html
+  id: rprince-heading
   template: jolla
   links:
     - icon: envelope
       text: Email
       href: mailto:rprince@uj.ac.za
     - icon: file-text
-      text: resume
-      href: resume.pdf
+      text: CV
+      href: cv_rprince.pdf
     - icon: github
       text: Github
       href: https://github.com/robertprince
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=NsGdESQAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/feed/
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-A little bit about me and my life.
-
+::: {#rprince-heading}
 I am a Senior Research Associate (SRA) at the University of Johannesburg. My research facilitates the identification of students who have the potential to succeed in higher education, given the appropriate academic support and curriculum structures to address their learning needs. My aim is to inform appropriate placement and curriculum development so that a wider range of students can be admitted, and appropriately placed in order to succeed in higher education.
+:::
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+PhD, University of Johannesburg, Johannesburg \| South Africa \| 2022
+
+M.Sc, University of Cape Town, Cape Town \| South Africa \| 1988
+
+B.Sc (Hons), University of the Western Cape, Cape Town \| South Africa \| 1986
+
+B.Sc, University of the Western Cape, Cape Town \| South Africa \| 1983
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+University of Johannesburg, Johannesburg \| Senior Research Associate \| August 2023 - present
+
+University of Cape Town, Cape Town \| Senior Scholar, Centre for Educational Assessments \| 2021 - 2022
+
+University of Cape Town, Cape Town \| Test Development Coordinator, Centre for Educational Assessments \| 2015 - 2020
+
+University of Cape Town, Cape Town \| Director, Alternative Admissions Research Project \| 2011 - 2014
+
+University of Cape Town, Cape Town \| Deputy Director, Academic Development Programme \| 2008 - 2010
+
+University of Cape Town, Cape Town \| Coordinator, Numeracy Centre \| 1999 - 2007
+
+University of the Western Cape, Cape Town \| Lecturer, Mathematics and Applied Mathematics \| 1990 - 1998
+
+University of Cape Town, Cape Town \| Lecturer, Mathematics and Applied Mathematics \| 1986 - 1989
+
+Bonwit (PTY) LTD, Cape Town \| Work Study Trainee - Work Study Manager \| 1976 - 1985
