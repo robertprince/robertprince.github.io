@@ -16,13 +16,7 @@ title: "Research"
 
 ## Publications
 
-**Journal articles**
-
-Komati, M, Prince, R. N and Korkie, E. (pending) The expected readiness of third year physiotherapy students in clinical education: Perspectives of academics in South Africa- South African Journal of Physiotherapy
-
-Komati, M, Prince, R. N and Korkie, E. (pending) Setting Cut Scores for a Clinical Readiness Diagnostic Assessment for Third Year Physiotherapy Students- African Journal of Health Professions Education
-
-Prince, Robert N. (pending). "Does the National Benchmark Quantitative Literacy Test Predict Performance in STEM Programmes in Commerce, Engineering and Science." Numeracy
+**Journal articles published**
 
 Prince, Robert N.. "Comparing National Benchmark Quantitative Literacy Paper-Based Tests Scores with its Computer-Based Counterparts." Numeracy 18, Iss. 1 (2025): Article 1. DOI: <https://doi.org/10.5038/1936-4660.18.1.1464>
 
@@ -69,6 +63,14 @@ Prince, R.N. and Archer, A. 2006. Quantitative Literacy as situated social pract
 Frith, V, Prince, R.N. and Jaftha, J.J. 2004. Evaluating the Effectiveness of Interactive Computer Tutorials for an Undergraduate Mathematical literacy course. *British Journal of Educational Technology*, 35, 2, pp. 159-171
 
 Archer, A., Frith, V, and Prince, R.N. 2002. A project-based approach to numeracy practices at university focusing on HIV/AIDS. *Literacy and Numeracy Studies*. 11, 2. pp. 123 -131. ISSN 1441-0559.
+
+**Journal articles pending publication**
+
+Komati, M, Prince, R. N and Korkie, E. (pending) The expected readiness of third year physiotherapy students in clinical education: Perspectives of academics in South Africa- South African Journal of Physiotherapy
+
+Komati, M, Prince, R. N and Korkie, E. (pending) Setting Cut Scores for a Clinical Readiness Diagnostic Assessment for Third Year Physiotherapy Students- African Journal of Health Professions Education
+
+Prince, Robert N. (pending). "Does the National Benchmark Quantitative Literacy Test Predict Performance in STEM Programmes in Commerce, Engineering and Science." Numeracy
 
 **Journal articles under review**
 
