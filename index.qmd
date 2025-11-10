@@ -23,6 +23,9 @@ about: # https://quarto.org/docs/websites/website-about.html
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/feed/
+    - icon: file-text
+      text: DMISRS
+      href: https://robertprince.github.io/DMISRS/
 ---
 
 ::: {#rprince-heading}
