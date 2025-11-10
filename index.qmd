@@ -4,7 +4,7 @@ subtitle: "Senior Research Associate, University of Johannesburg"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
 resources: cv_rprince.pdf
-about: # https://quarto.org/docs/websites/website-about.html
+about: # https://quarto.org/docs/websites/website-about.html/
   id: rprince-heading
   template: jolla
   links:
