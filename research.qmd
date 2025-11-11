@@ -1,7 +1,30 @@
 ---
 title: "Research"
+about: # https://quarto.org/docs/websites/website-about.html/
+  id: rprince-heading
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:rprince@uj.ac.za
+    - icon: file-text
+      text: CV
+      href: cv_rprince.pdf
+    - icon: github
+      text: Github
+      href: https://github.com/robertprince
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=NsGdESQAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/feed/
+    - icon: file-text
+      text: DMISRS
+      href: https://robertprince.github.io/DMISRS/
 ---
 
+::: {#rprince-heading}
 ## Interests
 
 -   Access to academic practices in higher education at undergraduate and postgraduate levels - ways of mediating the articulation gaps between the individual and group practices of students and the specific disciplinary practices encountered by them in higher education.
@@ -137,3 +160,6 @@ Archer, A., Frith, V and Prince, R.N. 2002. A project-based approach to numeracy
 ISBN 0-471-46332-9.
 
 Frith, V., & Prince, R. N. (2001, July). *“Gatekeeper” vs “Gateway”*. In J. Engelbrecht (Ed.), *Proceedings of the Third Southern Hemisphere Symposium on Undergraduate Mathematics Teaching* (pp. 46–52). DELTA ’01: Warthog Conference, Kruger National Park, South Africa.
+:::
+
+## 
