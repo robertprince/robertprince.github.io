@@ -1,8 +1,6 @@
 ---
-title: "About Research"
+title: "About Publications"
 ---
-
-## Publications
 
 **Journal articles published**
 
