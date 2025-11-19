@@ -41,19 +41,19 @@ about: # https://quarto.org/docs/websites/website-about.html/
 
 **Journal articles published**
 
-Prince, Robert N.. "Does the National Benchmark Quantitative Literacy Test Predict Performance in STEM Programmes in Commerce, Engineering and Science?." *Numeracy* 19, Iss. 1 (2026): Article 3. DOI: <https://doi.org/10.5038/1936-4660.19.1.1490>
+**Prince, Robert N.**. "Does the National Benchmark Quantitative Literacy Test Predict Performance in STEM Programmes in Commerce, Engineering and Science?." *Numeracy* 19, Iss. 1 (2026): Article 3. DOI: <https://doi.org/10.5038/1936-4660.19.1.1490>
 
-Komati, M.A., Prince, R.N. & Korkie, E., 2025, ‘Clinical readiness of third-year physiotherapy students: Perspectives of academics in South Africa’, South African Journal of Physiotherapy 81(1), a2198. <https://doi.org/10.4102/sajp.v81i1.2198>
+Komati, M.A., **Prince, R.N.** & Korkie, E., 2025, ‘Clinical readiness of third-year physiotherapy students: Perspectives of academics in South Africa’, South African Journal of Physiotherapy 81(1), a2198. <https://doi.org/10.4102/sajp.v81i1.2198>
 
-Prince, Robert N.. "Comparing National Benchmark Quantitative Literacy Paper-Based Tests Scores with its Computer-Based Counterparts." Numeracy 18, Iss. 1 (2025): Article 1. DOI: <https://doi.org/10.5038/1936-4660.18.1.1464>
+**Prince, Robert N.**. "Comparing National Benchmark Quantitative Literacy Paper-Based Tests Scores with its Computer-Based Counterparts." Numeracy 18, Iss. 1 (2025): Article 1. DOI: <https://doi.org/10.5038/1936-4660.18.1.1464>
 
-Prince, R. N., & Simpson, Z. (2025). A Transformative Approach to Admissions Assessment: The South African Case. *Designs for Learning,* 16(1), 64–74. DOI: [https://doi.org/10.16993/dfl.232](https://zaf01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.16993%2Fdfl.232&data=05%7C02%7Crprince%40uj.ac.za%7C5fc04752af684aed0b9e08de0b487de1%7Cfa785acd36ef41bc8a9489841327e045%7C0%7C0%7C638960606332181150%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=fsmx4swUcgU3cFRxHS5%2BH%2FM8f5EpfG4%2BOoxk1tA9Vyc%3D&reserved=0 "Original URL: https://doi.org/10.16993/dfl.232. Click or tap if you trust this link.")
+**Prince, R. N.**, & Simpson, Z. (2025). A Transformative Approach to Admissions Assessment: The South African Case. *Designs for Learning,* 16(1), 64–74. DOI:<https://doi.org/10.16993/dfl.232>
 
-Prince, R. N., & Balarin, E. (2025). Reflecting on the Diagnostic Mathematics Information for Student Retention and Success (DMISRS) journey: Key insights into negotiating large-scale collaborative projects. *Perspectives in Education, 43*(4), 411-429. <https://doi.org/10.38140/pie.v43i4.9198>
+**Prince, R. N.**, & Balarin, E. (2025). Reflecting on the Diagnostic Mathematics Information for Student Retention and Success (DMISRS) journey: Key insights into negotiating large-scale collaborative projects. *Perspectives in Education, 43*(4), 411-429. <https://doi.org/10.38140/pie.v43i4.9198>
 
-Prince, R. N., & Simpson, Z. (2025). *Professional development of tertiary mathematics educators: A landscapes of practice approach.* *Perspectives in Education, 43*(4), 430-441. <https://doi.org/10.38140/pie.v43i4.8180>
+**Prince, R. N.**, & Simpson, Z. (2025). Professional development of tertiary mathematics educators: A landscapes of practice approach. *Perspectives in Education, 43*(4), 430-441. <https://doi.org/10.38140/pie.v43i4.8180>
 
-Sango, T., Prince, R., Steyn, S., & Mudavanhu, P. 2022. High stakes online assessments: A case study of National Benchmark Tests during COVID-19. Perspectives in Education, 40(1), pp. 212-233. [https://doi.org/10.38140/pie.v40i1.5313 ](https://doi.org/10.38140/pie.v40i1.5313)
+Sango, T., Prince, R., Steyn, S., & Mudavanhu, P. 2022. High stakes online assessments: A case study of National Benchmark Tests during COVID-19. Perspectives in Education, 40(1), pp. 212-233. <https://doi.org/10.38140/pie.v40i1.5313>
 
 Prince, R. N., Frith, V., Steyn, S. and Cliff, A. F. 2021. Academic and Quantitative Literacy in Higher Education: relationship with school-leaving subjects. South African Journal of Higher Education. 35, 3. pp 163 – 181. <https://doi.org/10.20853/35-3-3943>
 
@@ -73,13 +73,13 @@ Bohlmann, C., Prince, R. and Deacon, A. 2017. Mathematical Errors Made by High P
 
 Prince, R. 2016. Predicting Success in Higher Education: The Value of Criterion and Norm-referenced Assessments. Practitioner Research in Higher education. 10, 1. pp. 22 – 38.
 
-Frith, V. and Prince, R. 2016. Quantitative literacy of school leavers aspiring to higher education in South Africa: lessons from the National Benchmark Quantitative Literacy test. South African Journal of Higher Education. 30, 1. Pp. 138-161. [https://doi.org/10.20853/30-1-552 ](https://doi.org/10.20853/30-1-552)
+Frith, V. and Prince, R. 2016. Quantitative literacy of school leavers aspiring to higher education in South Africa: lessons from the National Benchmark Quantitative Literacy test. South African Journal of Higher Education. 30, 1. Pp. 138-161. <https://doi.org/10.20853/30-1-552>
 
-Prince, R. and Archer, A. 2014. Exploring Academic Voice in Multimodal Quantitative Texts. Literacy and numeracy Studies. 22, 1. pp. 39 - 58. [https://doi.org/10.5130/lns.v22i1.4178 ](https://doi.org/10.5130/lns.v22i1.4178)
+Prince, R. and Archer, A. 2014. Exploring Academic Voice in Multimodal Quantitative Texts. Literacy and numeracy Studies. 22, 1. pp. 39 - 58. <https://doi.org/10.5130/lns.v22i1.4178>
 
-Kapp, R; Badenhorst, E; Bangeni, B; Craig, T. S; Janse van Rensburg, V; Le Roux, K, Prince, R; Pym, J; van Pletzen, E. 2014. Successful students’ negotiation of township schooling in contemporary South Africa. Perspectives in Education. 32, 3. pp. 50 - 61. [https://doi.org/10.38140/pie.v32i3.1871 ](https://doi.org/10.38140/pie.v32i3.1871)
+Kapp, R; Badenhorst, E; Bangeni, B; Craig, T. S; Janse van Rensburg, V; Le Roux, K, Prince, R; Pym, J; van Pletzen, E. 2014. Successful students’ negotiation of township schooling in contemporary South Africa. Perspectives in Education. 32, 3. pp. 50 - 61. <https://doi.org/10.38140/pie.v32i3.1871>
 
-Frith, V. and Prince, R. 2009. A framework for understanding the quantitative literacy demands of higher education. South African Journal of Higher Education. 23, 1. 83 – 97. ISSN 1011-3487. https://doi.org/[10.4314/sajhe.v23i1.44804 ](https://doi.org/10.4314/sajhe.v23i1.44804)
+Frith, V. and Prince, R. 2009. A framework for understanding the quantitative literacy demands of higher education. South African Journal of Higher Education. 23, 1. 83 – 97. ISSN 1011-3487. https://doi.org/[10.4314/sajhe.v23i1.44804](https://doi.org/10.4314/sajhe.v23i1.44804)
 
 Prince, R. and Archer, A. 2008. A New Literacies approach to academic numeracy practices in Higher Education in South Africa. Literacy and Numeracy Studies. 16, 1. 63 – 75. ISSN 1441-0559. <https://doi.org/10.5130/lns.v16i1.1948>
 
