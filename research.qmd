@@ -1,5 +1,6 @@
 ---
 title: "Research"
+image: Completed_Research_wc.jpg
 about: # https://quarto.org/docs/websites/website-about.html/
   id: rprince-heading
   template: jolla
