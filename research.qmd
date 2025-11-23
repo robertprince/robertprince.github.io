@@ -3,7 +3,7 @@ title: "Completed Research"
 image: Completed_Research_wc.jpg
 about: # https://quarto.org/docs/websites/website-about.html/
   id: rprince-heading
-  template: marquee
+  template: broadside
   links:
     - icon: envelope
       text: Email
