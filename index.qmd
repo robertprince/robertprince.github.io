@@ -1,10 +1,12 @@
 ---
 title: "Robert Noel Prince, PhD"
-subtitle: "Senior Research Associate, University of Johannesburg"
+subtitle: "Senior Research Associate, University of Johannesburg, South Africa"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
 resources: cv_rprince.pdf
 about: # https://quarto.org/docs/websites/website-about.html/
+       # https://jfrench.github.io/
+       # https://www.youtube.com/watch?v=_bglTCjgcqY
   id: rprince-heading
   template: jolla
   links:
@@ -29,7 +31,7 @@ about: # https://quarto.org/docs/websites/website-about.html/
 ---
 
 ::: {#rprince-heading}
-I am a Senior Research Associate (SRA) at the University of Johannesburg. My research facilitates the identification of students who have the potential to succeed in higher education, given the appropriate academic support and curriculum structures to address their learning needs. My aim is to inform appropriate placement and curriculum development so that a wider range of students can be admitted, and appropriately placed in order to succeed in higher education.
+I am a Senior Research Associate (SRA) at the University of Johannesburg, South Africa. My research facilitates the identification of students who have the potential to succeed in higher education, given the appropriate academic support and curriculum structures to address their learning needs. My aim is to inform appropriate placement and curriculum development so that a wider range of students can be admitted, and appropriately placed in order to succeed in higher education.
 :::
 
 ## Education
