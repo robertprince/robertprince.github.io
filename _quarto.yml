@@ -8,7 +8,11 @@ website:
     left:
       - research.qmd
       - about.qmd
-      
+    right: 
+    - icon: file-text
+      text: DMISRS
+      href: https://robertprince.github.io/DMISRS/
+
 format:
   html:
     backgroundcolor: "#eeffee"
