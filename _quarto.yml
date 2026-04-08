@@ -6,8 +6,8 @@ website:
   title: "Robert Noel Prince"
   navbar:
     left:
-      - research.qmd
-      - about.qmd
+      - research_done.qmd
+      - research_future.qmd
     right: 
     - icon: file-text
       text: DMISRS
