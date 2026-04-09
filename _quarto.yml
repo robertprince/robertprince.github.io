@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - research_done.qmd
-      - research_future.qmd
+      - research_current.qmd
     right: 
     - icon: file-text
       text: DMISRS
