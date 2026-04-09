@@ -24,30 +24,8 @@ about: # https://quarto.org/docs/websites/website-about.html/
       href: https://robertprince.github.io/DMISRS/
 ---
 
-**Journal articles pending publication**
+**Research projects**
 
-Komati, M, **Prince, R. N** and Korkie, E. (pending) Setting Cut Scores for a Clinical Readiness Diagnostic Assessment for Third Year Physiotherapy Students- African Journal of Health Professions Education
+A Longitudinal Study on the Retention of Foundational Knowledge in Anatomy and Physiology Among Health Sciences Students in South Africa
 
-**Journal articles under review**
-
-**Prince, R. N.**, Jappie, N., Millett, C. and Kefala, K. (under review) Beyond Selection Bias: What Propensity Score Matching Reveals About Extended Curriculum Programmes in South African Higher Education. Scholarship of Teaching and Learning in the South
-
-Komati, M, **Prince, R. N** and Korkie, E. (under review) Validation of the Clinical Readiness Diagnostic Assessment (CRDA) for Third-Year Physiotherapy Students in South Africa: A Pilot Study- African Journal of Health Professions Education
-
-Komati, M, **Prince, R. N** and Korkie, E. (under review) Development of a Clinical Readiness Diagnostic Assessment (CRDA) tool for third-year Physiotherapy students, in South Africa- Journal of Physiotherapy
-
-Rzyankina, E, and **Prince, R. N.** (under review) Facilitating Epistemological Access to First-year Mathematics: The Case of a University of Technology. *Perspectives in Education*
-
-Rzyankina, E, and **Prince, R. N.** (under review) Exploring First-year Students' Computer Literacy: Insights and Limitations of a Two-step Cluster Analysis Approach*. Discover Education*
-
-**Publications in process**
-
-**Prince, R.** (2025, November). Beyond Comparability: Materiality, Capital, and the Assessment of Academic Numeracy in a Digitally Divided Context.
-
-**Prince, R.** (2025, November). Navigating the Engineering Pipeline: Quantitative Literacy as a Predictor of Success in a South African Context.
-
-**Prince, R.** (2025, November). Extended versus Regular Curriculum Programmes in Engineering: A South African Case Study.
-
-**Chapter in books pending publication**
-
-**Prince, R. N.** and Simpson, Z (pending). Exploring the Influence of Socio-Economic Status on Higher Education Admissions Test Performance: A Large-Scale Quantitative Analysis.
+Mathematics Pathways and Epistemic Access: First-Year Engineering Mathematics Success at a South African Comprehensive University

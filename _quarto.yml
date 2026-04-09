@@ -8,6 +8,7 @@ website:
     left:
       - research_done.qmd
       - research_current.qmd
+      - research_future.qmd
     right: 
     - icon: file-text
       text: DMISRS
