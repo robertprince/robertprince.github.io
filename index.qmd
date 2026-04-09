@@ -1,33 +1,30 @@
 ---
 title: "Robert Noel Prince, PhD"
 subtitle: "Senior Research Associate, University of Johannesburg, South Africa"
-# \`profile.jpg\` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
 resources: cv_rprince.pdf
-about: \# https://quarto.org/docs/websites/website-about.html/
-\# https://jfrench.github.io/
-\# https://www.youtube.com/watch?v=\_bglTCjgcqY
-id: rprince-heading
-template: jolla
-links:
- - icon: envelope
-text: Email
-href: mailto:rprince\@uj.ac.za
- - icon: file-text
-text: CV
-href: cv_rprince.pdf
- - icon: github
-text: Github
-href: https://github.com/robertprince
- - icon: google
-text: Scholar
-href: https://scholar.google.com/citations?user=NsGdESQAAAAJ&hl=en
- - icon: linkedin
-text: LinkedIn
-href: https://www.linkedin.com/feed/
- - icon: file-text
-text: DMISRS
-href: https://robertprince.github.io/DMISRS/
+about: 
+    id: rprince-heading
+    template: jolla
+    links:
+     - icon: envelope
+       text: Email
+       href: mailto:rprince\@uj.ac.za
+     - icon: file-text
+       text: CV
+       href: cv_rprince.pdf
+     - icon: github
+       text: Github
+       href: https://github.com/robertprince
+     - icon: google
+       text: Scholar
+       href: https://scholar.google.com/citations?user=NsGdESQAAAAJ&hl=en
+     - icon: linkedin
+       text: LinkedIn
+       href: https://www.linkedin.com/feed/
+     - icon: file-text
+       text: DMISRS
+       href: https://robertprince.github.io/DMISRS/
 ---
 
 ::: {#rprince-heading}
