@@ -16,7 +16,7 @@ website:
 
 format:
   html:
-    backgroundcolor: "#eeffee"
+    backgroundcolor: "#EDE8D0"
     theme:
       - cosmo
       - brand
