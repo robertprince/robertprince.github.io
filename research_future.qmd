@@ -1,7 +1,7 @@
 ---
 title: "Future Reseach"
 about: # https://quarto.org/docs/websites/website-about.html/
-  template: broadside
+  template: jolla
   image: Research_Future_wc.jpg
   links:
     - icon: envelope
@@ -23,8 +23,6 @@ about: # https://quarto.org/docs/websites/website-about.html/
       text: DMISRS
       href: https://robertprince.github.io/DMISRS/
 ---
-
-
 
 **Research projects**
 
