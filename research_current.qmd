@@ -2,7 +2,7 @@
 title: "Current Reseach"
 about: # https://quarto.org/docs/websites/website-about.html/
   template: broadside
-  image: Current_Research_wc.jpg
+  image: Research_Current_wc.jpg
   links:
     - icon: envelope
       text: Email

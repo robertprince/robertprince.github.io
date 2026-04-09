@@ -6,7 +6,7 @@ website:
   title: "Robert Noel Prince"
   navbar:
     left:
-      - research_done.qmd
+      - research_completed.qmd
       - research_current.qmd
       - research_future.qmd
     right: 

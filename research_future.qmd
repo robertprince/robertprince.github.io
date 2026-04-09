@@ -2,7 +2,7 @@
 title: "Future Reseach"
 about: # https://quarto.org/docs/websites/website-about.html/
   template: broadside
-  image: Future_Research_wc.jpg
+  image: Research_Future_wc.jpg
   links:
     - icon: envelope
       text: Email
