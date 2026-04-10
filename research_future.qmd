@@ -28,4 +28,8 @@ about: # https://quarto.org/docs/websites/website-about.html/
 
 A Longitudinal Study on the Retention of Foundational Knowledge in Anatomy and Physiology Among Health Sciences Students in South Africa
 
+![Anatomy and Physiology](AP_wc.jpg)
+
 Mathematics Pathways and Epistemic Access: First-Year Engineering Mathematics Success at a South African Comprehensive University
+
+![Mathematics Pathways](DT_wc.jpg)
